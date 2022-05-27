@@ -1,0 +1,17 @@
+AWS Knowledge Center - https://aws.amazon.com/premiumsupport/knowledge-center/eks-access-kubernetes-services/
+
+Testing Env: Ubuntu, Visual Studio Code, AWS ap-southeast-1 region
+
+1. we will need to make sure AWS cli, eks and required configuration.
+
+2. configure step by step according to documentation.
+
+Some useful command for error log - 
+kubectl logs (nginx-ingress-pod-name) -n nginx-ingress
+
+
+
+
+
+
+
